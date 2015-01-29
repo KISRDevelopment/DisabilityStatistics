@@ -1,0 +1,60 @@
+{
+  "disabilities":[
+    {
+      "disability": "vision",
+      "severity": {
+        "mild": 147,
+        "moderate": 102,
+        "severe": 1102
+      }
+    },
+    {
+      "disability": "hearing",
+      "severity": {
+        "mild": 179,
+        "moderate": 477,
+        "severe":821
+      }
+    },
+    {
+      "disability": "physical",
+      "severity": {
+        "mild": 660,
+        "moderate": 1432,
+        "severe":4687
+      }
+    },
+    {
+      "disability": "mental",
+      "severity": {
+        "mild": 679,
+        "moderate": 864,
+        "severe":2119
+      }
+    },
+    {
+      "disability": "genetic",
+      "severity": {
+        "mild": 208,
+        "moderate": 813,
+        "severe":2856
+      }
+    },
+    {
+      "disability": "developmental",
+      "severity": {
+        "mild": 325,
+        "moderate": 381,
+        "severe":743
+      }
+    }
+  ],
+  "files": {
+    "reorganized": 18595,
+    "refused": 1465,
+    "reassessed": 13087,
+    "educationalSupport": 2982,
+    "multidisability": 4152,
+    "deadPersons": 287
+  }
+}
