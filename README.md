@@ -1,1 +1,1 @@
-Statics about disabilities in Kuwait
+Statistics about disabilities in Kuwait
